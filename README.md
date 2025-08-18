@@ -40,12 +40,12 @@ Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distin
  ```
  -->
 
-- [README.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/README.md) : Información general del proyecto.
-- [mapa_mental.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/mapa_mental.md) : Mapa mental de la función de "Formulario de pedido"
-- [lista_de_comprobacion.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/lista_de_comprobacion.md) : Lista de comprobación de los requisitos de función de la pantalla "Estado del pedido".
-- [validacion_de_datos.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/validacion_de_datos.md) : Validacion de datos para los campos de la pantalla "Realizar pedido" 
-- [casos_de_prueba.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/casos_de_prueba.md) : Casos de prueba aplicación móvil Urban Scooter 
-- [lista_de_comprobacion_api.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/lista_de_comprobacion_api.md) : Lista de comprobación de la API de la aplicación Urban Scooter
+- [README.md](Link) : Información general del proyecto.
+- [mapa_mental.md](Link) : Mapa mental de la función de "Formulario de pedido"
+- [lista_de_comprobacion.md](Link) : Lista de comprobación de los requisitos de función de la pantalla "Estado del pedido".
+- [validacion_de_datos.md](Link) : Validacion de datos para los campos de la pantalla "Realizar pedido" 
+- [casos_de_prueba.md](Link) : Casos de prueba aplicación móvil Urban Scooter 
+- [lista_de_comprobacion_api.md](Link) : Lista de comprobación de la API de la aplicación Urban Scooter
 <!-- - 📁 Capturas/: Carpeta con capturas de pantalla de los bugs encontrados. -->
 
 ## 🔎 Metodología

@@ -19,10 +19,10 @@ Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distin
  📁 proyecto_urban_scooter  
  │-- 📄 README.md  
  │-- 📄 mapa_mental.md
- │-- 📄 lista_de_comprobacion.md
- │-- 📄 validacion_de_datos.md
- │-- 📄 casos_de_prueba.md
- │-- 📄 lista_de_comprobacion_api.md
+ │-- 📄 1. Lista de comprobación - App web Urban Scooter.xlsx
+ │-- 📄 2. Validacion de datos - App web Urban Scooter.xlsx
+ │-- 📄 3. Casos de prueba - App movil Urban Scooter.xlsx
+ │-- 📄 4. Lista de comprobación_Api - Api rest Urban Scooter.xlsx
  ```
 
 <!--
@@ -30,23 +30,19 @@ Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distin
  📁 QA_Manual_Web_Testing  
  │-- 📄 README.md  
  │-- 📄 mapa_mental.md
- │-- 📄 lista_de_comprobacion.md
- │-- 📄 validacion_de_datos.md
- │-- 📄 casos_de_prueba.md
- │-- 📄 lista_de_comprobacion_api.md
- │-- 📁 evidencias/
- │   │-- error_login.png
- │   │-- responsive_issue.png
+ │-- 📄 1. Lista de comprobación - App web Urban Scooter.xlsx
+ │-- 📄 2. Validacion de datos - App web Urban Scooter.xlsx
+ │-- 📄 3. Casos de prueba - App movil Urban Scooter.xlsx
+ │-- 📄 4. Lista de comprobación_Api - Api rest Urban Scooter.xlsx
  ```
  -->
 
 - [README.md](Link) : Información general del proyecto.
 - [mapa_mental.md](Link) : Mapa mental de la función de "Formulario de pedido"
-- [lista_de_comprobacion.md](Link) : Lista de comprobación de los requisitos de función de la pantalla "Estado del pedido".
-- [validacion_de_datos.md](Link) : Validacion de datos para los campos de la pantalla "Realizar pedido" 
-- [casos_de_prueba.md](Link) : Casos de prueba aplicación móvil Urban Scooter 
-- [lista_de_comprobacion_api.md](Link) : Lista de comprobación de la API de la aplicación Urban Scooter
-<!-- - 📁 Capturas/: Carpeta con capturas de pantalla de los bugs encontrados. -->
+- [1. Lista de comprobación - App web Urban Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/raw/refs/heads/main/1.%20Lista%20de%20comprobaci%C3%B3n%20-%20App%20web%20Urban%20Scooter.xlsx) : Lista de comprobación de los requisitos de función de la pantalla "Estado del pedido".
+- [2. Validacion de datos - App web Urban Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/raw/refs/heads/main/2.%20Validacion%20de%20datos%20-%20App%20web%20Urban%20Scooter.xlsx) : Validacion de datos para los campos de la pantalla "Realizar pedido" 
+- [3. Casos de prueba - App movil Urban Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/raw/refs/heads/main/3.%20Casos%20de%20prueba%20-%20App%20movil%20Urban%20Scooter.xlsx) : Casos de prueba aplicación móvil Urban Scooter 
+- [4. Lista de comprobación_Api - Api rest Urban Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/raw/refs/heads/main/4.%20Lista%20de%20comprobaci%C3%B3n_Api%20-%20Api%20rest%20Urban%20Scooter.xlsx) : Lista de comprobación de la API de la aplicación 
 
 ## 🔎 Metodología
 Las pruebas se realizaron siguiendo un enfoque **manual** y abarcando las siguientes áreas:

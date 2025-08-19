@@ -37,8 +37,8 @@ Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distin
  ```
  -->
 
-- [README.md](Link) : Información general del proyecto.
-- [mapa_mental.md](Link) : Mapa mental de la función de "Formulario de pedido"
+- [README.md](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/blob/main/README.md) : Información general del proyecto.
+- [mapa_mental](https://www.figma.com/board/IxrVqLasZYquu6lewc2BVj/Mapa-Mental---Urban-Sccoter?node-id=0-1&t=L0zfjKj8W6XH1I8P-1) : Mapa mental de la función de "Formulario de pedido"
 - [1. Lista de comprobación - App web Urban Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/raw/refs/heads/main/1.%20Lista%20de%20comprobaci%C3%B3n%20-%20App%20web%20Urban%20Scooter.xlsx) : Lista de comprobación de los requisitos de función de la pantalla "Estado del pedido".
 - [2. Validacion de datos - App web Urban Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/raw/refs/heads/main/2.%20Validacion%20de%20datos%20-%20App%20web%20Urban%20Scooter.xlsx) : Validacion de datos para los campos de la pantalla "Realizar pedido" 
 - [3. Casos de prueba - App movil Urban Scooter](https://github.com/FelipeML94/qa-project-Urban_Scooter-Main/raw/refs/heads/main/3.%20Casos%20de%20prueba%20-%20App%20movil%20Urban%20Scooter.xlsx) : Casos de prueba aplicación móvil Urban Scooter 
